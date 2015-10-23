@@ -1,0 +1,17 @@
+body {
+	margin-top: 100px;
+	text-align: center;
+}
+
+div.logo {
+/*	background: #FFF url('../images/KIMESUI-LOGO.png');*/
+	content:url('../images/KIMESUI-LOGO.png');
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+button {
+	align:	center;
+	width: 80%;
+	height: 40px;
+}
